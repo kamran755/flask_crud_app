@@ -1,4 +1,4 @@
-git clone https://github./flash-crud-app.git
+git clone https://github.com/kamran755/flask_crud_app
 cd flash-crud-app
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
